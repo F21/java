@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.3
+FROM ubuntu:14.04
 MAINTAINER Francis Chuang <francis.chuang@boostport.com>
 
 # Originally from https://github.com/Netflix-Skunkworks/zerotodocker/blob/master/java/8/Dockerfile
