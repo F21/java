@@ -1,2 +1,2 @@
 # DEPRECATED!
-Use the library's `openjdk` image instead.
+Use the official docker library's `openjdk` image instead.
